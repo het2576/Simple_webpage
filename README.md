@@ -1,8 +1,8 @@
-# Simple webpage Project
+# Simple webpage Project (https://het2576.github.io/Simple_webpage/)
 
 This is a simple webpage clone of the UltraEdit website. It features a responsive design with a functional navigation bar and download section. The page includes a hero section with a download button, which works for different versions of UltraEdit. The layout adapts to various screen sizes, providing a smooth user experience across devices.
 
-website: (https://www.ultraedit.com/downloads/ultraedit-download-thank-you/)
+og website: (https://www.ultraedit.com/downloads/ultraedit-download-thank-you/)
 
 ## Features
 - Responsive navbar with links to multiple sections.
